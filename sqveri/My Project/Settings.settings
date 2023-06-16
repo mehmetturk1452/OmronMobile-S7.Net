@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ASRS_Sql_Baglanti" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=192.168.90.240; Database=2Bee_GelalSock;User Id= gelal;Password=gelal123</Value>
+    </Setting>
+    <Setting Name="Deneme_Sql_Baglanti" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Server=192.168.55.240; Database=OrguPlc_Omron;User Id= sa;Password=Sa123Sa</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
